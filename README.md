@@ -31,7 +31,7 @@
 <!-- ======================= CONNECT / SOCIALS ======================= -->
 <div align="center">
 
-<a href="https://linkedin.com/in/ramen-mahata"><!-- <<< LinkedIn: verify/replace this slug with your real profile URL -->
+<a href="https://www.linkedin.com/in/ramen-mahata-bb2253253/"><!-- <<< LinkedIn: verify/replace this slug with your real profile URL -->
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:ramenmahataofficial@gmail.com">
@@ -151,19 +151,19 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 -->
 <div align="center">
 
-<a href="https://github.com/RamenMahata/your-project-1">
+<a href="https://github.com/RamenMahata/ChitChat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 1" />
 </a>
-<a href="https://github.com/RamenMahata/your-project-2">
+<a href="https://github.com/RamenMahata/QuickAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 2" />
 </a>
 
-<a href="https://github.com/RamenMahata/your-project-3">
+<a href="https://github.com/RamenMahata/interview-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=your-project-3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 3" />
 </a>
-<a href="https://github.com/RamenMahata/your-project-4">
+<!-- <a href="https://github.com/RamenMahata/your-project-4">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=your-project-4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 4" />
-</a>
+</a> -->
 
 </div>
 
