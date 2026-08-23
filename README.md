@@ -152,7 +152,7 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 <div align="center">
 
 <a href="https://github.com/RamenMahata/ChitChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=ChitChat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=https://github.com/RamenMahata/ChitChat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 1" />
 </a>
 <a href="https://github.com/RamenMahata/QuickAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=QuickAI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 2" />
