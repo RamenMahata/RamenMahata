@@ -1,44 +1,57 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║  Ramen Mahata • GitHub Profile README                          ║
-  ║  Before publishing, replace the placeholders marked  <<< ...   ║
-  ║   1. LinkedIn slug (search "LinkedIn" below)                    ║
-  ║   2. Featured project repo names (search "FEATURED PROJECTS")   ║
-  ║  Everything else works automatically once you push this to the ║
-  ║  repo named exactly "RamenMahata" (your profile repo).          ║
+  ║  Ramen Mahata • GitHub Profile README                       ║
+  ║                                                              ║
+  ║  Profile Repository: github.com/RamenMahata/RamenMahata     ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ======================= HEADER BANNER ======================= -->
+
 <a href="#">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8b5cf6&height=220&section=header&text=Ramen%20Mahata&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%20%7C%20%20MERN%20%20%7C%20%20Generative%20AI&descAlignY=58&descSize=18" alt="header" />
 </a>
 
 <!-- ======================= TYPING SUBTITLE ======================= -->
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%9B%EF%B8%8F;Building+AI-Powered+Applications+%F0%9F%A4%96;DSA+%26+System+Design+Enthusiast+%F0%9F%A7%A9;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://github.com/RamenMahata)
 
+</div>
+
 <!-- ======================= PROFILE STATS PILLS ======================= -->
+
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=RamenMahata&label=Profile%20Views&color=1f6feb&style=flat-square" alt="profile views" />
+
 <a href="https://github.com/RamenMahata?tab=followers">
   <img src="https://img.shields.io/github/followers/RamenMahata?label=Followers&style=flat-square&color=8b5cf6&logo=github" alt="followers" />
 </a>
+
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-38bdae?style=flat-square&logo=handshake&logoColor=white" alt="open to collaboration" />
 
 </div>
 
 <!-- ======================= CONNECT / SOCIALS ======================= -->
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ramen-mahata-bb2253253/"><!-- <<< LinkedIn: verify/replace this slug with your real profile URL -->
+<a href="https://www.linkedin.com/in/ramen-mahata-bb2253253/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:ramenmahataofficial@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
 <a href="https://instagram.com/ram3n._.18">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://leetcode.com/u/Ramen_Mahata/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 
 </div>
@@ -46,6 +59,7 @@
 <br/>
 
 <!-- ======================= ABOUT ME ======================= -->
+
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Developer** who loves turning ideas into real, working products and untangling hard problems with clean code. I work primarily across the **JavaScript/Node ecosystem** and I'm deep into building **AI-powered, scalable web applications**.
@@ -61,6 +75,7 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 <br/>
 
 <!-- ======================= TECH STACK ======================= -->
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -105,11 +120,13 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 <br/>
 
 <!-- ======================= GITHUB STATS ======================= -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamenMahata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="github stats" />
+
 <img height="180em" src="https://streak-stats.demolab.com/?user=RamenMahata&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=8b5cf6&currStreakLabel=70a5fd" alt="streak stats" />
 
 </div>
@@ -121,6 +138,7 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 </div>
 
 <!-- ======================= ACTIVITY GRAPH ======================= -->
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -130,6 +148,7 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 </div>
 
 <!-- ======================= SNAKE ANIMATION ======================= -->
+
 ## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
@@ -143,17 +162,15 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 </div>
 
 <!-- ======================= FEATURED PROJECTS ======================= -->
+
 ## 🚀 Featured Projects
 
-<!--
-  FEATURED PROJECTS — replace "your-project-x" with your real repo names.
-  These cards auto-populate with the repo's title, description, stars & forks.
--->
 <div align="center">
 
 <a href="https://github.com/RamenMahata/ChitChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=https://github.com/RamenMahata/ChitChat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=ChitChat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 1" />
 </a>
+
 <a href="https://github.com/RamenMahata/QuickAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=QuickAI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 2" />
 </a>
@@ -161,15 +178,41 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 <a href="https://github.com/RamenMahata/interview-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=interview-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 3" />
 </a>
-<!-- <a href="https://github.com/RamenMahata/your-project-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamenMahata&repo=your-project-4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=8b5cf6" alt="project 4" />
-</a> -->
+
+</div>
+
+<br/>
+
+<!-- ======================= LEETCODE DASHBOARD ======================= -->
+
+## 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Ramen_Mahata/">
+
+  <img
+    src="https://leetcard.jacoblin.cool/Ramen_Mahata?theme=dark&font=Baloo_2&width=500&height=200&border=0&radius=14&animation=true&cache=3600"
+    alt="Ramen Mahata LeetCode Dashboard"
+  />
+
+</a>
+
+<a href="https://leetcode.com/u/Ramen_Mahata/">
+
+  <img
+    src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="View LeetCode Profile"
+  />
+
+</a>
 
 </div>
 
 <br/>
 
 <!-- ======================= TROPHIES ======================= -->
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -179,6 +222,7 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 </div>
 
 <!-- ======================= QUOTE ======================= -->
+
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
@@ -190,6 +234,7 @@ I'm a **Full-Stack Developer** who loves turning ideas into real, working produc
 <br/>
 
 <!-- ======================= FOOTER ======================= -->
+
 <div align="center">
 
 ⭐️ From [Ramen Mahata](https://github.com/RamenMahata) — thanks for stopping by!
