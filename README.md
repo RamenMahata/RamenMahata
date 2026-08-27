@@ -187,22 +187,11 @@ reach_me:    ramenmahataofficial@gmail.com
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RamenMahata&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=70a5fd&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="Ramen Mahata's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamenMahata&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Ramen Mahata's most used languages" />
-
 <br/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=RamenMahata&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=8b5cf6&currStreakLabel=70a5fd" alt="GitHub contribution streak" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RamenMahata&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" alt="GitHub trophies" />
-
-<br/><br/>
-
-<a href="https://github.com/RamenMahata">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamenMahata&bg_color=0d1117&color=70a5fd&line=8b5cf6&point=38bdae&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Ramen Mahata's contribution activity graph" />
-</a>
 
 </div>
 
